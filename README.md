@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef EL Boundati</h1>
-<h3 align="center">💻 A passionate frontend developer from Morocco</h3>
+<h3 align="center">💻 A passionate Full Stack Developer from Morocco 🇲🇦</h3>
 
 - 🔭 I’m currently working on [E-Commerce Project](E-Commerce Project)
 
